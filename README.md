@@ -1,16 +1,9 @@
 # gamepad
 
-A new Flutter project.
+Create virtual Gamepad
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Aplicacion que se conecta mediante sockets a python para crear un gamepad virtual.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![alt text]([http://url/to/img.png](https://github.com/xhnutri/flutter-virtual-gamepad/blob/main/assets/app.jpg)https://github.com/xhnutri/flutter-virtual-gamepad/blob/main/assets/app.jpg)
