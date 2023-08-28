@@ -6,4 +6,4 @@ Create virtual Gamepad
 
 Aplicacion que se conecta mediante sockets a python para crear un gamepad virtual.
 
-![alt text](https://github.com/xhnutri/flutter-virtual-gamepad/blob/main/assets/app.jpg)
+![alt text](./assets/app.jpg)
